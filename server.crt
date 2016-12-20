@@ -1,0 +1,91 @@
+Certificate:
+    Data:
+        Version: 3 (0x2)
+        Serial Number: 1 (0x1)
+        Signature Algorithm: sha512WithRSAEncryption
+        Issuer: C=CN, ST=GuangDong, L=ShenZhen, O=DaQing Co.Ltd., OU=JunJiChu, CN=CA/emailAddress=boyi@daqing.gov
+        Validity
+            Not Before: Dec 17 15:07:37 2016 GMT
+            Not After : Dec 15 15:07:37 2026 GMT
+        Subject: C=CN, ST=GuangDong, L=ShenZhen, O=DaQing Co.Ltd., OU=JunJiChu, CN=server/emailAddress=boyi@daqing.gov
+        Subject Public Key Info:
+            Public Key Algorithm: rsaEncryption
+                Public-Key: (2048 bit)
+                Modulus:
+                    00:cf:52:e9:b2:83:39:8e:89:bf:d0:a2:44:b6:75:
+                    89:ed:1c:33:cf:92:a7:0e:b2:ac:67:18:b3:b6:51:
+                    b0:ff:f6:b8:37:2e:a9:7a:9e:f1:55:47:5a:76:47:
+                    c1:e1:ba:69:19:30:0c:92:9f:b2:7b:2c:19:ca:5d:
+                    c1:b9:13:6a:96:57:38:0e:f4:34:00:7e:dc:6d:93:
+                    7b:52:85:bf:07:15:2c:6b:bb:ca:5b:b5:58:97:2d:
+                    bb:5c:05:a9:66:eb:10:d5:0d:3f:38:82:b5:04:35:
+                    3b:d9:f3:2f:9b:26:4c:24:1c:a1:c9:fe:70:38:76:
+                    62:69:b0:75:cc:32:86:e2:69:2e:c0:8e:c2:84:30:
+                    b7:02:27:61:65:58:22:f5:3b:b0:9a:9e:58:94:24:
+                    1b:62:fd:34:6c:8e:98:11:0e:4f:49:ef:3e:49:aa:
+                    0a:80:9a:0d:e0:48:4d:39:8d:00:1a:03:c0:b0:e4:
+                    f5:c7:59:39:bc:3f:f0:01:96:42:27:2c:b5:d9:fb:
+                    40:dd:e4:10:7a:f8:0f:72:47:1e:f3:e1:b1:9c:51:
+                    60:db:9b:b3:cc:b0:72:da:96:20:00:59:d8:4a:59:
+                    c8:0e:45:8c:51:ef:e1:b1:fa:08:c3:70:65:6b:c6:
+                    a0:e5:9e:ae:6d:c7:da:57:c3:7d:90:e2:be:59:9f:
+                    4f:f9
+                Exponent: 65537 (0x10001)
+        X509v3 extensions:
+            X509v3 Basic Constraints: 
+                CA:FALSE
+            X509v3 Subject Key Identifier: 
+                6E:11:DC:6C:22:F1:D0:7D:AC:9E:94:AD:AA:C6:64:29:83:38:C9:1B
+            X509v3 Authority Key Identifier: 
+                keyid:90:5E:38:5A:5D:DA:C4:E9:29:C3:1A:F1:C0:9C:DB:B5:98:AE:71:03
+                DirName:/C=CN/ST=GuangDong/L=ShenZhen/O=DaQing Co.Ltd./OU=JunJiChu/CN=CA/emailAddress=boyi@daqing.gov
+                serial:BE:ED:3E:D5:D6:69:53:11
+
+            X509v3 Extended Key Usage: 
+                TLS Web Server Authentication
+            X509v3 Key Usage: 
+                Digital Signature, Key Encipherment
+    Signature Algorithm: sha512WithRSAEncryption
+        8c:75:0a:34:d3:f0:e0:0c:de:af:1b:4e:89:c0:48:c7:23:f1:
+        a7:54:d1:2f:8f:da:3c:55:00:bc:6e:f4:74:c2:48:f8:ae:12:
+        0f:47:ff:9f:63:40:9e:00:1a:95:56:48:53:65:0b:22:66:fe:
+        5f:e2:2d:c6:fe:42:b7:09:af:28:0d:21:47:80:b9:46:7e:e2:
+        04:89:17:b2:ee:70:82:7e:37:90:22:ff:07:2f:48:16:67:c0:
+        07:bc:5f:c2:1a:bb:1a:36:a2:d3:e2:55:cf:51:e5:54:4d:75:
+        9e:11:a5:16:24:6a:77:a7:2b:01:77:1f:f5:5c:94:d0:49:79:
+        be:02:6c:96:60:46:d3:3d:cd:a2:40:22:1f:ce:0e:29:3f:5c:
+        c3:86:9d:b4:69:8c:a8:7a:78:c3:c3:61:0e:41:52:2b:4d:21:
+        91:27:ea:9f:91:2e:1d:61:3c:25:77:22:4d:5d:c4:c6:00:43:
+        51:a9:4b:a5:ab:d7:dc:ca:c6:9d:30:34:b1:6e:bf:29:ca:09:
+        be:6b:57:b1:cb:d2:1d:b2:78:df:ba:f2:42:bb:e0:5b:c4:36:
+        f3:bb:73:8d:40:e3:ea:1e:89:69:47:ee:b5:04:a7:60:21:cd:
+        60:d1:6c:df:f4:35:ae:2f:c7:a1:86:bf:40:e4:49:3f:b9:53:
+        d9:bc:8b:1e
+-----BEGIN CERTIFICATE-----
+MIIEsjCCA5qgAwIBAgIBATANBgkqhkiG9w0BAQ0FADCBjTELMAkGA1UEBhMCQ04x
+EjAQBgNVBAgTCUd1YW5nRG9uZzERMA8GA1UEBxMIU2hlblpoZW4xFzAVBgNVBAoT
+DkRhUWluZyBDby5MdGQuMREwDwYDVQQLEwhKdW5KaUNodTELMAkGA1UEAxMCQ0Ex
+HjAcBgkqhkiG9w0BCQEWD2JveWlAZGFxaW5nLmdvdjAeFw0xNjEyMTcxNTA3Mzda
+Fw0yNjEyMTUxNTA3MzdaMIGRMQswCQYDVQQGEwJDTjESMBAGA1UECBMJR3VhbmdE
+b25nMREwDwYDVQQHEwhTaGVuWmhlbjEXMBUGA1UEChMORGFRaW5nIENvLkx0ZC4x
+ETAPBgNVBAsTCEp1bkppQ2h1MQ8wDQYDVQQDEwZzZXJ2ZXIxHjAcBgkqhkiG9w0B
+CQEWD2JveWlAZGFxaW5nLmdvdjCCASIwDQYJKoZIhvcNAQEBBQADggEPADCCAQoC
+ggEBAM9S6bKDOY6Jv9CiRLZ1ie0cM8+Spw6yrGcYs7ZRsP/2uDcuqXqe8VVHWnZH
+weG6aRkwDJKfsnssGcpdwbkTapZXOA70NAB+3G2Te1KFvwcVLGu7ylu1WJctu1wF
+qWbrENUNPziCtQQ1O9nzL5smTCQcocn+cDh2YmmwdcwyhuJpLsCOwoQwtwInYWVY
+IvU7sJqeWJQkG2L9NGyOmBEOT0nvPkmqCoCaDeBITTmNABoDwLDk9cdZObw/8AGW
+Qicstdn7QN3kEHr4D3JHHvPhsZxRYNubs8ywctqWIABZ2EpZyA5FjFHv4bH6CMNw
+ZWvGoOWerm3H2lfDfZDivlmfT/kCAwEAAaOCARUwggERMAkGA1UdEwQCMAAwHQYD
+VR0OBBYEFG4R3Gwi8dB9rJ6UrarGZCmDOMkbMIHCBgNVHSMEgbowgbeAFJBeOFpd
+2sTpKcMa8cCc27WYrnEDoYGTpIGQMIGNMQswCQYDVQQGEwJDTjESMBAGA1UECBMJ
+R3VhbmdEb25nMREwDwYDVQQHEwhTaGVuWmhlbjEXMBUGA1UEChMORGFRaW5nIENv
+Lkx0ZC4xETAPBgNVBAsTCEp1bkppQ2h1MQswCQYDVQQDEwJDQTEeMBwGCSqGSIb3
+DQEJARYPYm95aUBkYXFpbmcuZ292ggkAvu0+1dZpUxEwEwYDVR0lBAwwCgYIKwYB
+BQUHAwEwCwYDVR0PBAQDAgWgMA0GCSqGSIb3DQEBDQUAA4IBAQCMdQo00/DgDN6v
+G06JwEjHI/GnVNEvj9o8VQC8bvR0wkj4rhIPR/+fY0CeABqVVkhTZQsiZv5f4i3G
+/kK3Ca8oDSFHgLlGfuIEiRey7nCCfjeQIv8HL0gWZ8AHvF/CGrsaNqLT4lXPUeVU
+TXWeEaUWJGp3pysBdx/1XJTQSXm+AmyWYEbTPc2iQCIfzg4pP1zDhp20aYyoenjD
+w2EOQVIrTSGRJ+qfkS4dYTwldyJNXcTGAENRqUulq9fcysadMDSxbr8pygm+a1ex
+y9IdsnjfuvJCu+BbxDbzu3ONQOPqHolpR+61BKdgIc1g0Wzf9DWuL8ehhr9A5Ek/
+uVPZvIse
+-----END CERTIFICATE-----
