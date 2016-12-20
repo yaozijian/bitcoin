@@ -20,6 +20,7 @@
 # 其他
 
 * 实用的系统应该是分布式的，由多个组件组成，后续会修改代码逐步实现实用化。如使用gRPC来进行多个用户间的通信，使用protocol buffers定义用户间交换的消息。
-* windows 中调用 build.bat 完成编译；linux 中可参看 build.bat 写出编译脚本。
-* 后续会尝试使用 godeps 或者 gopm 等工具来实现依赖管理和代码编译。尝试过 godeps 和 Go 的 vendor 功能，都有其不足之处，也许写编译脚本还是最好的办法。
-
+* 编译方法
+  * 从 github 下载代码后,先使用 godep restore 获取第三方依赖库
+  * 再执行 go build github.com/yaozijian/bitcoin  进行编译
+  

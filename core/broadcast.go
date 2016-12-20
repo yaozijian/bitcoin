@@ -1,8 +1,8 @@
 package core
 
 import (
-	"meeting"
-	"router"
+	"github.com/yaozijian/bitcoin/meeting"
+	"github.com/yaozijian/bitcoin/router"
 )
 
 func (u *user) doBroadCast(data meeting.Signatureable, typ uint64) error {

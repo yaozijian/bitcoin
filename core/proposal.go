@@ -5,9 +5,9 @@ import (
 	"encoding/hex"
 	"fmt"
 
-	"golang.org/x/net/context"
+	"github.com/golang/net/context"
 
-	"meeting"
+	"github.com/yaozijian/bitcoin/meeting"
 )
 
 // 处理议案

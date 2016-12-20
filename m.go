@@ -5,9 +5,8 @@ import (
 	"os/signal"
 	"time"
 
-	"core"
-
-	"router"
+	"github.com/yaozijian/bitcoin/core"
+	"github.com/yaozijian/bitcoin/router"
 
 	log "github.com/cihub/seelog"
 )

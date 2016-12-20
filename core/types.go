@@ -4,7 +4,7 @@ import (
 	"bytes"
 	"time"
 
-	"meeting"
+	"github.com/yaozijian/bitcoin/meeting"
 )
 
 type (

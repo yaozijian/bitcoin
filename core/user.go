@@ -3,11 +3,11 @@ package core
 import (
 	"fmt"
 
-	"cryptology"
-	"meeting"
-	"router"
+	"github.com/yaozijian/bitcoin/cryptology"
+	"github.com/yaozijian/bitcoin/meeting"
+	"github.com/yaozijian/bitcoin/router"
 
-	"golang.org/x/net/context"
+	"github.com/golang/net/context"
 
 	log "github.com/cihub/seelog"
 )

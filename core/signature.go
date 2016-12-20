@@ -8,8 +8,8 @@ import (
 	"encoding/gob"
 	"fmt"
 
-	"cryptology"
-	"meeting"
+	"github.com/yaozijian/bitcoin/cryptology"
+	"github.com/yaozijian/bitcoin/meeting"
 )
 
 // 为数据生成签名

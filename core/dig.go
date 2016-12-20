@@ -4,9 +4,9 @@ import (
 	"bytes"
 	"time"
 
-	"golang.org/x/net/context"
+	"github.com/golang/net/context"
 
-	"meeting"
+	"github.com/yaozijian/bitcoin/meeting"
 
 	log "github.com/cihub/seelog"
 )

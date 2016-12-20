@@ -4,7 +4,7 @@ import (
 	"encoding/hex"
 	"fmt"
 
-	"meeting"
+	"github.com/yaozijian/bitcoin/meeting"
 )
 
 func (u *user) onDecide(decide *meeting.Decide) {
